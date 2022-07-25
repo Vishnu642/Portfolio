@@ -153,8 +153,8 @@
 }
 
 .about-photo{
-    width: 35%;
-    height: 100%;
+    width:310px;
+    height: 250px;
     border: solid 1px transparent;
     background-color:  #282c34 ;
     display: flex;
